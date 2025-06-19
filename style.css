@@ -10,6 +10,24 @@ button {
   outline: none;
 }
 
+header {
+  height: 20vh;
+  background-color: rgba(10, 86, 135, 1);
+  display: flex;
+  justify-content: center;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+nav {
+  margin-top: 2rem;
+  width: 250px;
+  display: flex;
+  font-size: 1.5rem;
+  justify-content: space-between;
+}
 .hero {
   background: #0a5687;
   background: linear-gradient(
